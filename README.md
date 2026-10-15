@@ -5,7 +5,7 @@ toolbox to control a ROS robot through rosbridge. It exposes only the main
 operations a student control loop needs:
 
 - sign in to borrow the robot and another sign-in for the battery   
-- log into turtlebot-MMR wifi, pwd: Turtlebot   
+- log into `turtlebot-MMR wifi`, pwd: `Turtlebot`
 - ping 192.168.1.2XX where XX is the TurtleBot ID   
 - query the latest compressed camera image as a BGR NumPy array;
 - query the latest laser scan as angle and range NumPy arrays;
